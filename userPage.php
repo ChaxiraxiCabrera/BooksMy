@@ -45,6 +45,9 @@
 				<a href="selectBook.php">
 					<button type="button">Recomendación</button>
 				</a>
+				<a href="statistics.php">
+					<button type="button">Estadísticas</button>
+				</a>
 				<a href="logout.php">
 					<button type="button">Cerrar sesión</button>
 				</a>

@@ -1,5 +1,6 @@
 <?php
 	include("connection.php");
+	$title="Añadir nuevo libro";
 	$book_id=0;
 	$name="";
 	$author="";
@@ -7,6 +8,7 @@
 	$nPag="";
 	$read="";
 	if(isset($_GET['book_id'])){
+		$title="Modificar libro";
 		$book_id=$_GET['book_id'];
 		$book_query="SELECT * FROM libros WHERE id_libro='$book_id'";
 		$results=$dbConnection->query($book_query);
@@ -45,7 +47,7 @@
 
 	<section id="content">
 		<div class="bookForm">
-			<h2>Añadir nuevo libro</h2>
+			<h2><?php echo $title ?></h2>
 			<form action="save.php" method="POST">
 				<label>Nombre*:</label> <input type="text" name="bookName" required="required" placeholder="Nombre Libro" value="<?php echo $name; ?>"> <br/>
 				<label>Autor*:</label> <input type="text" name="bookAuthor" required="required" placeholder="Nombre Autor" value="<?php echo $author; ?>"><br />

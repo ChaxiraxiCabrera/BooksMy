@@ -10,28 +10,26 @@
 	}
 
 	//create database
-	$sql = "CREATE DATABASE IF NOT EXISTS BooksMyDB";
+	$sql = "CREATE DATABASE IF NOT EXISTS booksmydb";
 	if ($conn->query($sql)=== TRUE) {
 		echo "Base de datos creada correctamente";
 	}else{
 		echo "Error al crear la base de datos".$conn->error;
 	}
 
-	$conn->close();
-
-	$dbName="BooksMyDB";
-
-	$conn= new mysqli($server, $dbUser, $dbPass, $dbName);	
-	//check connection
-	if($conn->connect_errno>0){
-		die("Imposible conectarse con la BD".$conn->connect_errno);
+	$sql = "USE booksmydb";
+	if ($conn->query($sql)=== TRUE) {
+		echo "Usando la BD";
+	}else{
+		echo "Error usar la BD".$conn->error;
 	}
 
 	//create table users
 	$sql = "CREATE TABLE IF NOT EXISTS usuarios (
-		id_usuario INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
-		nombre VARCHAR(50) NOT NULL,
-		password VARCHAR(120) NOT NULL		
+		id_usuario INT UNSIGNED AUTO_INCREMENT NOT NULL, 
+		nombre VARCHAR(120) NOT NULL,
+		password VARCHAR(120) NOT NULL,
+		PRIMARY KEY(id_usuario)		
 		)";
 
 	if ($conn->query($sql)=== TRUE) {
@@ -40,6 +38,7 @@
 		echo "Error al crear tabla".$conn->error;
 	}
 
+	//Insert data
 	$sql = "INSERT INTO usuarios (nombre, password) 
 			SELECT * FROM (SELECT 'Admin', '21232f297a57a5a743894a0e4a801fc3') AS tmp
 			WHERE NOT EXISTS (SELECT nombre FROM usuarios WHERE nombre = 'Admin') LIMIT 1";
@@ -48,16 +47,18 @@
 	}else{
 		echo "Error al crear tabla".$conn->error;
 	}
-	
+
 	//create table books
 	$sql = "CREATE TABLE IF NOT EXISTS libros (
-		id_libro INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
-		nombre VARCHAR(50) NOT NULL,
-		autor VARCHAR(50) NOT NULL,
-		saga VARCHAR(50),
-		paginas INT(6),
-		leido VARCHAR(4) NOT NULL,
-		id_usuario INT(6)		
+		id_libro INT UNSIGNED AUTO_INCREMENT NOT NULL, 
+		nombre VARCHAR(120) NOT NULL,
+		autor VARCHAR(120) NOT NULL,
+		saga VARCHAR(120),
+		paginas INT,
+		leido VARCHAR(5) NOT NULL,
+		id_usuario INT UNSIGNED NOT NULL,
+		PRIMARY KEY (id_libro),
+    	FOREIGN KEY (id_usuario) REFERENCES usuarios(id_usuario)	
 		)";
 
 	if ($conn->query($sql)=== TRUE) {
@@ -78,7 +79,7 @@
 	}else{
 		echo "Error al crear tabla".$conn->error;
 	}
-
+	
 	
 	$conn->close();
 

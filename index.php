@@ -1,5 +1,5 @@
 <?php 
-	include('configExample.php');
+	include('configDB.php');
 ?>
 
 <!DOCTYPE html>
@@ -23,7 +23,7 @@
 			<form action="checkLogin.php" method="POST">
 				<label>Nombre:</label> <input type="text" name="userName" required="required" placeholder="Nombre Usuario"> <br/>
 				<label>Contraseña:</label> <input type="password" name="userPass" required="required" placeholder="Contraseña"><br />
-				<input type="submit" value="Log in"><br><br>
+				<input type="submit" value="Iniciar Sesión"><br><br>
 				<a href="newUserForm.php">Registrarse</a>
 			</div>
 		</form>

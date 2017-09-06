@@ -108,6 +108,25 @@ label{
     margin-right: 15em;
 }
 
+#search {
+    text-align: center;
+    background-image: url('../images/rsz_2searchIcon.png'); 
+    background-repeat: no-repeat; 
+    position: relative;
+    margin-left: 25em;
+    font-size: 16px; 
+    padding: 12px 12px 12px 13px; 
+    border: 1px solid #ddd; 
+    margin-bottom: 12px;
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+#search:focus{
+    width: 60%;
+}
+
 #resumeList li{
     text-align: center;
 }
@@ -206,3 +225,20 @@ label{
     font: 16px Arial, Helvetica, sans-serif;
     height: 45px;
 }
+
+/* Container for skill bars */
+.container {
+    width: 100%;
+    margin-left: 200px;
+    background-color: #ddd; 
+}
+
+.skills {
+    text-align: right;
+    padding-right: 20px; 
+    line-height: 40px; /
+    color: white;
+}
+
+.read {background-color: #4CAF50;} /* Green */
+.noRead {background-color: #f44336;} /* Red */

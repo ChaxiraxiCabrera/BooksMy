@@ -12,6 +12,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<script type="text/javascript" src="JS/script.js"></script>
 </head>
 <body>
 	<div id="fringe"></div>
@@ -34,6 +35,7 @@
 
 
 	<section id="content">
+		<input type="text" name="search" id="search" onkeyup="searchFunction()" placeholder="Buscar por nombre..">
 		<table border="2" id="bookTable">
 			<caption>Listado Libros</caption>
 				<tr>

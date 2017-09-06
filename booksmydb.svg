@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="152 34 535 224" width="383px" height="190px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="440" y1="199" x2="430" y2="199" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="257" y1="103" x2="247" y2="103" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="430" y1="199" x2="257" y2="103" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="432.5" y1="199" x2="436.03553390593" y2="202.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="432.5" y1="199" x2="436.03553390593" y2="195.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="252" y1="103" x2="255.53553390593" y2="106.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="252" y1="103" x2="255.53553390593" y2="99.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <rect width="80" height="20" x="440" y="49" style="fill:#007;stroke:black;"/>
+   <text width="80" height="20" x="445" y="63" style="fill:#fff;" font-family="Arial" font-size="16px"> libros</text>
+   <rect width="80" height="20" x="440" y="69" style="fill:#aea;stroke:black;"/>
+   <text width="80" height="20" x="445" y="83" style="fill:black;" font-family="Arial" font-size="16px">id_libro</text>
+   <rect width="80" height="20" x="440" y="89" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="445" y="103" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="80" height="20" x="440" y="109" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="445" y="123" style="fill:black;" font-family="Arial" font-size="16px">autor</text>
+   <rect width="80" height="20" x="440" y="129" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="445" y="143" style="fill:black;" font-family="Arial" font-size="16px">saga</text>
+   <rect width="80" height="20" x="440" y="149" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="445" y="163" style="fill:black;" font-family="Arial" font-size="16px">paginas</text>
+   <rect width="80" height="20" x="440" y="169" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="445" y="183" style="fill:black;" font-family="Arial" font-size="16px">leido</text>
+   <rect width="80" height="20" x="440" y="189" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="445" y="203" style="fill:black;" font-family="Arial" font-size="16px">id_usuario</text>
+   <rect width="80" height="20" x="167" y="73" style="fill:#007;stroke:black;"/>
+   <text width="80" height="20" x="172" y="87" style="fill:#fff;" font-family="Arial" font-size="16px"> usuarios</text>
+   <rect width="80" height="20" x="167" y="93" style="fill:#aea;stroke:black;"/>
+   <text width="80" height="20" x="172" y="107" style="fill:black;" font-family="Arial" font-size="16px">id_usuario</text>
+   <rect width="80" height="20" x="167" y="113" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="172" y="127" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="80" height="20" x="167" y="133" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="172" y="147" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+</svg>

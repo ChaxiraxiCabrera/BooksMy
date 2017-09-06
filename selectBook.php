@@ -12,6 +12,10 @@
 	foreach ($results as $result) {
 		array_push($book_array, $result['nombre']);
 	}
+
+	if (count($book_array) == 0) {
+		array_push($book_array, "No tiene libros registrados");
+	}
 ?>
 <!DOCTYPE html>
 <html>

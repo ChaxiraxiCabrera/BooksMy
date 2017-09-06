@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>BooksMy/README.md at master · ChaxiraxiCabrera/BooksMy</title>
+  <title>BooksMy/LICENSE.md at master · ChaxiraxiCabrera/BooksMy</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/15262741?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="ChaxiraxiCabrera/BooksMy" property="og:title" /><meta content="https://github.com/ChaxiraxiCabrera/BooksMy" property="og:url" /><meta content="Contribute to BooksMy development by creating an account on GitHub." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjAyODMyNjU5OmRlMzExYmJkZGFiYzVhMTFjOTExOGZjN2I5MGM5NGE3OTVjMjZlYTk4NWFlMDAyNGMyZjE4NGQzNTU0ZTMyNTA=--51ebe01b2751753a0b21d93622a7d42dff15a4b0">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjAyODMyNjU5OjUyZjZhMjRlMDg4Mzk4N2ZiZDc5N2Q3NWNmNjA0N2Y0YzBjM2VlOTNiNGExMjkzNDUzMjIxM2I2ZGM5NDFmZTQ=--7eec95e01e16de2c18ed47ff96eb764acbdee645">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="E8F9:D2D2:2D06978:4AC1400:59B021C5" data-pjax-transient>
+  <meta name="request-id" content="E8F9:D2D2:2D06E80:4AC17FE:59B021C9" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="E8F9:D2D2:2D06978:4AC1400:59B021C5" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="15262741" name="octolytics-actor-id" /><meta content="ChaxiraxiCabrera" name="octolytics-actor-login" /><meta content="06d729b3f9fb287e9ae5ff52171512725ad65d075d2e9bb84bfea5d130d90afe" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="E8F9:D2D2:2D06E80:4AC17FE:59B021C9" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="15262741" name="octolytics-actor-id" /><meta content="ChaxiraxiCabrera" name="octolytics-actor-login" /><meta content="06d729b3f9fb287e9ae5ff52171512725ad65d075d2e9bb84bfea5d130d90afe" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="ChaxiraxiCabrera">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZWRhY2FhOTc1ZTgxZTFlMWRhYjY0ZDcwMDYzODllYzRjNzA2YjJkMjRlOWM1NGZkNTJkNmU0MWQ2MjgyNDA4OXx7InJlbW90ZV9hZGRyZXNzIjoiODEuNjEuNzIuMTIwIiwicmVxdWVzdF9pZCI6IkU4Rjk6RDJEMjoyRDA2OTc4OjRBQzE0MDA6NTlCMDIxQzUiLCJ0aW1lc3RhbXAiOjE1MDQ3MTUyMDksImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="MTcxZDgzMTM0MTI3MjVlNDRmMjljYzcwOWNlZDVjZDk3MmI5MWVlZWU1NDE1MGFhYTNlYTU4MGE5NzM2N2YxNHx7InJlbW90ZV9hZGRyZXNzIjoiODEuNjEuNzIuMTIwIiwicmVxdWVzdF9pZCI6IkU4Rjk6RDJEMjoyRDA2RTgwOjRBQzE3RkU6NTlCMDIxQzkiLCJ0aW1lc3RhbXAiOjE1MDQ3MTUyMTgsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER">
 
@@ -80,7 +80,7 @@
   <meta content="15262741" name="octolytics-dimension-user_id" /><meta content="ChaxiraxiCabrera" name="octolytics-dimension-user_login" /><meta content="102021445" name="octolytics-dimension-repository_id" /><meta content="ChaxiraxiCabrera/BooksMy" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="102021445" name="octolytics-dimension-repository_network_root_id" /><meta content="ChaxiraxiCabrera/BooksMy" name="octolytics-dimension-repository_network_root_nwo" /><meta content="true" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/ChaxiraxiCabrera/BooksMy/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/ChaxiraxiCabrera/BooksMy/blob/master/LICENSE.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -127,7 +127,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/search" class="js-site-search-form" data-scoped-search-url="/ChaxiraxiCabrera/BooksMy/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/ChaxiraxiCabrera/BooksMy/blob/master/README.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/ChaxiraxiCabrera/BooksMy/blob/master/LICENSE.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -255,7 +255,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2Hio1iIG+Kj/P+JgnG1ZGk5LSPRuw/3ldm/c7VVs3v6+swgvklJ8Iap/oqi2qj6//BDgx/cnqWNWmhM05XNaaw==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="e8Ha8l+HOiGBxR7/ujeCNpnysK5itlnY141tdkdMFEkdCnoL79O+qNSFXjeQ8OWTK6kYnftSDV73eKKv91OQ3A==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -266,7 +266,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FJMMUmjKELdXFA4uTjp5tX/clZG552rRCBmQZeXJNi5yWKyr2J6UPgJUTuZk/R4QzYc9oiADPlco7F+8Vdayuw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3/LaimyIEGyvUGuKIjX+Q3syoZveHkCC0bj35KIXX8S5OXpz3NyU5foQK0II8pnmyWkJqEf6FATxTTg9EgjbUQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -301,7 +301,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ySgr3aF4107WmhtB6I9LX7Qr0DJABGvu5EHgtoCxywaeze0upFzSrecrj4cTEhQR4lojMjJin186uzVcl74LoQ==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="102021445" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dpylsZsK0mastgOkPcGOqVQtzBgyholDhyPvzq91Lr4heWNCni7XhZ0Hl2LGXNHnAlw/GEDgffJZ2TokuHruGQ==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="102021445" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/ChaxiraxiCabrera/BooksMy/subscription"
@@ -381,7 +381,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rn491DCyHKSGSG7U3E8iJq9V6kCsHkxS8vklgOs+OmKaCu2zxZwK8ShO0h9nz/BDg2RgebyZJ85TsWWsEmypew==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uZ3QY/WCKkIyhkAnHijLZfVho9VVPG/N+no/miZ9jlWN6QAEAKw8F5yA/OylqBkA2VAp7EW7BFFbMn+23y8dTA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -395,7 +395,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FmSEK2lQmO2LBTILwjFjAZHowfywQr7pRxm4IXOA7whGOkumofOWRsSk9igBrCelPlMlG4UP0AvlvFisdf8iiw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6o13OVYf04P2YL7oOPd8+XOfLgZeuHyYGIIyoytLXEa607i0nrzdKLnBesv7ajhd3CTK4Wv1Enq6J9IuLTSRxQ==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -413,7 +413,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="I1Dx4Ns6xmJlgDDOBxryVd4EsCvzWLfK81na67Y1RtxPfOwdg79zrMqYpGC2RW3RkIiqdFVZhbgvgVBK0Q1ReQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TuTrz3N4WBADVAPZjSZGdBKlOiNAVv3F8uHxsHY8VjciyPYyK/3t3qxMl3c8ednwXCkgfOZXz7cuOXsREQRBkg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -515,9 +515,9 @@
   <div class="repository-content">
 
     
-  <a href="/ChaxiraxiCabrera/BooksMy/blob/c9b4b7cad9a62ebb31eb68140bf9c9e629e7af47/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/ChaxiraxiCabrera/BooksMy/blob/c9b4b7cad9a62ebb31eb68140bf9c9e629e7af47/LICENSE.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:62036078403d6f7ce077ac8c66508d1c -->
+  <!-- blob contrib key: blob_contributors:v21:ab47e7c5fa917b836f379ca7d10bbaa2 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -559,7 +559,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/ChaxiraxiCabrera/BooksMy/blob/master/README.md"
+               href="/ChaxiraxiCabrera/BooksMy/blob/master/LICENSE.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -570,7 +570,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="B4G2ov5FjvXopBq+8l2Q01PAaZgYQ2tk/Vz+RzSBALIWJMNExCyCjUpr/+XJfm1opimg8dWrHrPrh08WgYQwOQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Ht2jNZf6yEi+d/GiJR6Y+Daaxlb9kPdE8sTa8wAvmU8PeNbTrZPEMBy4FPkePWVDw3MPPzB4gpPkH2uitSqpxA==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -578,7 +578,7 @@
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="README.md">
+            <input type="hidden" name="path" id="path" value="LICENSE.md">
 </form>
       </div>
 
@@ -605,23 +605,127 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/ChaxiraxiCabrera/BooksMy"><span>BooksMy</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/ChaxiraxiCabrera/BooksMy"><span>BooksMy</span></a></span></span><span class="separator">/</span><strong class="final-path">LICENSE.md</strong>
     </div>
   </div>
+
+    <div class="Box mb-3 clearfix">
+  <div class="col-6 float-left p-2 pt-3">
+    <svg aria-hidden="true" class="octicon octicon-law license-summary-octicon float-left mr-2" height="32" version="1.1" viewBox="0 0 14 16" width="28"><path fill-rule="evenodd" d="M7 4c-.83 0-1.5-.67-1.5-1.5S6.17 1 7 1s1.5.67 1.5 1.5S7.83 4 7 4zm7 6c0 1.11-.89 2-2 2h-1c-1.11 0-2-.89-2-2l2-4h-1c-.55 0-1-.45-1-1H8v8c.42 0 1 .45 1 1h1c.42 0 1 .45 1 1H3c0-.55.58-1 1-1h1c0-.55.58-1 1-1h.03L6 5H5c0 .55-.45 1-1 1H3l2 4c0 1.11-.89 2-2 2H2c-1.11 0-2-.89-2-2l2-4H1V5h3c0-.55.45-1 1-1h4c.55 0 1 .45 1 1h3v1h-1l2 4zM2.5 7L1 10h3L2.5 7zM13 10l-1.5-3-1.5 3h3z"/></svg>
+    <p class="text-small text-gray mb-0 lh-condensed-ultra">
+      ChaxiraxiCabrera/BooksMy is licensed under the
+    </p>
+    <h4 class="mt-0 mb-2">Apache License 2.0</h4>
+    <p class="mb-0 text-gray text-small pr-2">A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.</p>
+  </div>
+
+  <div class="col-6 float-left p-2">
+      <div class="one-third column">
+        <h5 class="mt-1 mb-2">Permissions</h5>
+        <ul class="list-style-none">
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" height="17" version="1.1" viewBox="0 0 12 16" width="13"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
+                aria-label="This software and derivatives may be used for commercial purposes.">
+                Commercial use
+              </span>
+            </li>
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" height="17" version="1.1" viewBox="0 0 12 16" width="13"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
+                aria-label="This software may be modified.">
+                Modification
+              </span>
+            </li>
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" height="17" version="1.1" viewBox="0 0 12 16" width="13"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
+                aria-label="This software may be distributed.">
+                Distribution
+              </span>
+            </li>
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" height="17" version="1.1" viewBox="0 0 12 16" width="13"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
+                aria-label="This license provides an express grant of patent rights from contributors.">
+                Patent use
+              </span>
+            </li>
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" height="17" version="1.1" viewBox="0 0 12 16" width="13"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
+                aria-label="This software may be used and modified in private.">
+                Private use
+              </span>
+            </li>
+        </ul>
+      </div>
+      <div class="one-third column">
+        <h5 class="mt-1 mb-2">Limitations</h5>
+        <ul class="list-style-none">
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-x rule-type-limitations ml-n3 v-align-middle" height="17" version="1.1" viewBox="0 0 12 16" width="13"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+              <span class="tooltipped tooltipped-s tooltipped-multiline v-align-middle"
+                aria-label="This license explicitly states that it does NOT grant trademark rights, even though licenses without such a statement probably do not grant any implicit trademark rights.">
+                Trademark use
+              </span>
+            </li>
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-x rule-type-limitations ml-n3 v-align-middle" height="17" version="1.1" viewBox="0 0 12 16" width="13"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+              <span class="tooltipped tooltipped-s tooltipped-multiline v-align-middle"
+                aria-label="This license includes a limitation of liability.">
+                Liability
+              </span>
+            </li>
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-x rule-type-limitations ml-n3 v-align-middle" height="17" version="1.1" viewBox="0 0 12 16" width="13"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+              <span class="tooltipped tooltipped-s tooltipped-multiline v-align-middle"
+                aria-label="The license explicitly states that it does NOT provide any warranty.">
+                Warranty
+              </span>
+            </li>
+        </ul>
+      </div>
+      <div class="one-third column">
+        <h5 class="mt-1 mb-2">Conditions</h5>
+        <ul class="list-style-none">
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-info rule-type-conditions ml-n3 v-align-middle" height="14" version="1.1" viewBox="0 0 14 16" width="13"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"/></svg>
+              <span class="tooltipped tooltipped-sw tooltipped-multiline v-align-middle"
+                aria-label="A copy of the license and copyright notice must be included with the software.">
+                License and copyright notice
+              </span>
+            </li>
+            <li class="text-small pl-3">
+              <svg aria-hidden="true" class="octicon octicon-info rule-type-conditions ml-n3 v-align-middle" height="14" version="1.1" viewBox="0 0 14 16" width="13"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"/></svg>
+              <span class="tooltipped tooltipped-sw tooltipped-multiline v-align-middle"
+                aria-label="Changes made to the code must be documented.">
+                State changes
+              </span>
+            </li>
+        </ul>
+      </div>
+  </div>
+
+  <p class="text-gray text-small mb-0 border-top col-12 float-left p-2">
+    This is not legal advice.
+    <a href="https://help.github.com/articles/licensing-a-repository/#disclaimer">Learn more about repository licenses</a>.
+  </p>
+</div>
 
 
   
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/ChaxiraxiCabrera/BooksMy/commit/3632b5e7435e69bd6e2c950fec7e03c0efd38223" data-pjax>
-          3632b5e
+        <a class="commit-tease-sha" href="/ChaxiraxiCabrera/BooksMy/commit/c9b4b7cad9a62ebb31eb68140bf9c9e629e7af47" data-pjax>
+          c9b4b7c
         </a>
-        <relative-time datetime="2017-08-31T17:00:27Z">Aug 31, 2017</relative-time>
+        <relative-time datetime="2017-09-04T16:21:02Z">Sep 4, 2017</relative-time>
       </span>
       <div>
         <img alt="@ChaxiraxiCabrera" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/15262741?v=4&amp;s=40" width="20" />
         <a href="/ChaxiraxiCabrera" class="user-mention" rel="author">ChaxiraxiCabrera</a>
-          <a href="/ChaxiraxiCabrera/BooksMy/commit/3632b5e7435e69bd6e2c950fec7e03c0efd38223" class="message" data-pjax="true" title="Update README.md">Update README.md</a>
+          <a href="/ChaxiraxiCabrera/BooksMy/commit/c9b4b7cad9a62ebb31eb68140bf9c9e629e7af47" class="message" data-pjax="true" title="Create LICENSE.md">Create LICENSE.md</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -649,9 +753,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/ChaxiraxiCabrera/BooksMy/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/ChaxiraxiCabrera/BooksMy/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/ChaxiraxiCabrera/BooksMy/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/ChaxiraxiCabrera/BooksMy/raw/master/LICENSE.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/ChaxiraxiCabrera/BooksMy/blame/master/LICENSE.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/ChaxiraxiCabrera/BooksMy/commits/master/LICENSE.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -661,12 +765,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/edit/master/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QoACIOy2f1V3oGXCEhs2gj3OU52G3DeyJSbpxkwfpyIK+8TcYwMw3i7SiieI++HMPiR9i0Poxj0Rrglh5az2sw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/edit/master/LICENSE.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="H56ERxQES0EPFo2T0sEi1ljwc3Ou4OrZ66yvzmWpx4SLGkHQz3tvfg19TzmIWKJ0zUd6osX02LSfQ+17MqLFYw==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/delete/master/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2DmniRxgKvghS1hVbDcKwwJPK67pNIG0RC5OObgVPZyJo64fUVfYXmbrxWpOQDdXcyg/I3XlJSiEBJ+rxD9PLQ==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ChaxiraxiCabrera/BooksMy/delete/master/LICENSE.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bGxi665vTH+NMRwtmBTaevro0G8mILlpJo5+0ZCuuKmRWghVMR4JAfGmmj5goU0Qr2IKNogivb3PdOXJCtCVVA==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -674,21 +778,196 @@
 </form>  </div>
 
   <div class="file-info">
-      13 lines (7 sloc)
+      191 lines (160 sloc)
       <span class="file-info-divider"></span>
-    597 Bytes
+    10.5 KB
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-booksmy" class="anchor" href="#booksmy" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>BooksMy</h1>
-<p>BooksMy is a web application designed to keep track of your readings, you can register books and mark them as read or unread. It also offers a book recommendation system for your new readings.</p>
-<h2><a id="user-content-getting-started" class="anchor" href="#getting-started" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Getting Started</h2>
-<p>First to test this project on your computer you will need to install xampp.
-You should then save the project to xampp / htdocs / project.
-To run it you must first start the Apache server and the MySQL database from Xampp and then type in the browser the following url: localhost/project.</p>
-<p>Running the project the first time will create a new database with a test tables.</p>
+    <article class="markdown-body entry-content" itemprop="text"><pre><code>                             Apache License
+                       Version 2.0, January 2004
+                    http://www.apache.org/licenses/
+</code></pre>
+<p>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</p>
+<ol>
+<li>
+<p>Definitions.</p>
+<p>"License" shall mean the terms and conditions for use, reproduction,
+and distribution as defined by Sections 1 through 9 of this document.</p>
+<p>"Licensor" shall mean the copyright owner or entity authorized by
+the copyright owner that is granting the License.</p>
+<p>"Legal Entity" shall mean the union of the acting entity and all
+other entities that control, are controlled by, or are under common
+control with that entity. For the purposes of this definition,
+"control" means (i) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or
+otherwise, or (ii) ownership of fifty percent (50%) or more of the
+outstanding shares, or (iii) beneficial ownership of such entity.</p>
+<p>"You" (or "Your") shall mean an individual or Legal Entity
+exercising permissions granted by this License.</p>
+<p>"Source" form shall mean the preferred form for making modifications,
+including but not limited to software source code, documentation
+source, and configuration files.</p>
+<p>"Object" form shall mean any form resulting from mechanical
+transformation or translation of a Source form, including but
+not limited to compiled object code, generated documentation,
+and conversions to other media types.</p>
+<p>"Work" shall mean the work of authorship, whether in Source or
+Object form, made available under the License, as indicated by a
+copyright notice that is included in or attached to the work
+(an example is provided in the Appendix below).</p>
+<p>"Derivative Works" shall mean any work, whether in Source or Object
+form, that is based on (or derived from) the Work and for which the
+editorial revisions, annotations, elaborations, or other modifications
+represent, as a whole, an original work of authorship. For the purposes
+of this License, Derivative Works shall not include works that remain
+separable from, or merely link (or bind by name) to the interfaces of,
+the Work and Derivative Works thereof.</p>
+<p>"Contribution" shall mean any work of authorship, including
+the original version of the Work and any modifications or additions
+to that Work or Derivative Works thereof, that is intentionally
+submitted to Licensor for inclusion in the Work by the copyright owner
+or by an individual or Legal Entity authorized to submit on behalf of
+the copyright owner. For the purposes of this definition, "submitted"
+means any form of electronic, verbal, or written communication sent
+to the Licensor or its representatives, including but not limited to
+communication on electronic mailing lists, source code control systems,
+and issue tracking systems that are managed by, or on behalf of, the
+Licensor for the purpose of discussing and improving the Work, but
+excluding communication that is conspicuously marked or otherwise
+designated in writing by the copyright owner as "Not a Contribution."</p>
+<p>"Contributor" shall mean Licensor and any individual or Legal Entity
+on behalf of whom a Contribution has been received by Licensor and
+subsequently incorporated within the Work.</p>
+</li>
+<li>
+<p>Grant of Copyright License. Subject to the terms and conditions of
+this License, each Contributor hereby grants to You a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+copyright license to reproduce, prepare Derivative Works of,
+publicly display, publicly perform, sublicense, and distribute the
+Work and such Derivative Works in Source or Object form.</p>
+</li>
+<li>
+<p>Grant of Patent License. Subject to the terms and conditions of
+this License, each Contributor hereby grants to You a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+(except as stated in this section) patent license to make, have made,
+use, offer to sell, sell, import, and otherwise transfer the Work,
+where such license applies only to those patent claims licensable
+by such Contributor that are necessarily infringed by their
+Contribution(s) alone or by combination of their Contribution(s)
+with the Work to which such Contribution(s) was submitted. If You
+institute patent litigation against any entity (including a
+cross-claim or counterclaim in a lawsuit) alleging that the Work
+or a Contribution incorporated within the Work constitutes direct
+or contributory patent infringement, then any patent licenses
+granted to You under this License for that Work shall terminate
+as of the date such litigation is filed.</p>
+</li>
+<li>
+<p>Redistribution. You may reproduce and distribute copies of the
+Work or Derivative Works thereof in any medium, with or without
+modifications, and in Source or Object form, provided that You
+meet the following conditions:</p>
+<p>(a) You must give any other recipients of the Work or
+Derivative Works a copy of this License; and</p>
+<p>(b) You must cause any modified files to carry prominent notices
+stating that You changed the files; and</p>
+<p>(c) You must retain, in the Source form of any Derivative Works
+that You distribute, all copyright, patent, trademark, and
+attribution notices from the Source form of the Work,
+excluding those notices that do not pertain to any part of
+the Derivative Works; and</p>
+<p>(d) If the Work includes a "NOTICE" text file as part of its
+distribution, then any Derivative Works that You distribute must
+include a readable copy of the attribution notices contained
+within such NOTICE file, excluding those notices that do not
+pertain to any part of the Derivative Works, in at least one
+of the following places: within a NOTICE text file distributed
+as part of the Derivative Works; within the Source form or
+documentation, if provided along with the Derivative Works; or,
+within a display generated by the Derivative Works, if and
+wherever such third-party notices normally appear. The contents
+of the NOTICE file are for informational purposes only and
+do not modify the License. You may add Your own attribution
+notices within Derivative Works that You distribute, alongside
+or as an addendum to the NOTICE text from the Work, provided
+that such additional attribution notices cannot be construed
+as modifying the License.</p>
+<p>You may add Your own copyright statement to Your modifications and
+may provide additional or different license terms and conditions
+for use, reproduction, or distribution of Your modifications, or
+for any such Derivative Works as a whole, provided Your use,
+reproduction, and distribution of the Work otherwise complies with
+the conditions stated in this License.</p>
+</li>
+<li>
+<p>Submission of Contributions. Unless You explicitly state otherwise,
+any Contribution intentionally submitted for inclusion in the Work
+by You to the Licensor shall be under the terms and conditions of
+this License, without any additional terms or conditions.
+Notwithstanding the above, nothing herein shall supersede or modify
+the terms of any separate license agreement you may have executed
+with Licensor regarding such Contributions.</p>
+</li>
+<li>
+<p>Trademarks. This License does not grant permission to use the trade
+names, trademarks, service marks, or product names of the Licensor,
+except as required for reasonable and customary use in describing the
+origin of the Work and reproducing the content of the NOTICE file.</p>
+</li>
+<li>
+<p>Disclaimer of Warranty. Unless required by applicable law or
+agreed to in writing, Licensor provides the Work (and each
+Contributor provides its Contributions) on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+implied, including, without limitation, any warranties or conditions
+of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+PARTICULAR PURPOSE. You are solely responsible for determining the
+appropriateness of using or redistributing the Work and assume any
+risks associated with Your exercise of permissions under this License.</p>
+</li>
+<li>
+<p>Limitation of Liability. In no event and under no legal theory,
+whether in tort (including negligence), contract, or otherwise,
+unless required by applicable law (such as deliberate and grossly
+negligent acts) or agreed to in writing, shall any Contributor be
+liable to You for damages, including any direct, indirect, special,
+incidental, or consequential damages of any character arising as a
+result of this License or out of the use or inability to use the
+Work (including but not limited to damages for loss of goodwill,
+work stoppage, computer failure or malfunction, or any and all
+other commercial damages or losses), even if such Contributor
+has been advised of the possibility of such damages.</p>
+</li>
+<li>
+<p>Accepting Warranty or Additional Liability. While redistributing
+the Work or Derivative Works thereof, You may choose to offer,
+and charge a fee for, acceptance of support, warranty, indemnity,
+or other liability obligations and/or rights consistent with this
+License. However, in accepting such obligations, You may act only
+on Your own behalf and on Your sole responsibility, not on behalf
+of any other Contributor, and only if You agree to indemnify,
+defend, and hold each Contributor harmless for any liability
+incurred by, or claims asserted against, such Contributor by reason
+of your accepting any such warranty or additional liability.</p>
+</li>
+</ol>
+<p>END OF TERMS AND CONDITIONS</p>
+<p>Copyright 2017 Chaxiraxi Cabrera González</p>
+<p>Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at</p>
+<pre><code>   http://www.apache.org/licenses/LICENSE-2.0
+</code></pre>
+<p>Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</p>
 </article>
   </div>
 
@@ -714,7 +993,7 @@ To run it you must first start the Apache server and the MySQL database from Xam
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2017 <span title="0.14164s from unicorn-3496185161-r26tv">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2017 <span title="0.24853s from unicorn-3496185161-cjkl2">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
