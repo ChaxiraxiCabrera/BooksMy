@@ -6,10 +6,13 @@ Registered users will be able to add books both read and unread, in addition it 
 
 ## Getting Started
 To use this project you must include it in your server, for example in xampp, you have to include it in the htdocs folder.
+To open the project you have to write in the browser: localhost/projectName
 
 When you open the project, it will call 'configDB.php' that will configure the database, (in case it does not exist on the server).
 Database name = 'BooksMyDB'
 Database user = 'root'
 Database pass = ''
 
-In the file 'booksmydb.svg' is the schema of the database
+The file 'booksmydb.svg' is the schema of the database.
+
+
